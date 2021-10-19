@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace Movies_Rating_Sysyem
+namespace Movies_Rating_System
 {
     public class BundleConfig
     {

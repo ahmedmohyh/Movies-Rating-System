@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Movies_Rating_Sysyem.Controllers
+namespace Movies_Rating_System.Controllers
 {
     public class HomeController : Controller
     {

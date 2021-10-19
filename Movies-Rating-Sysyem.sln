@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies-Rating-Sysyem", "Movies-Rating-Sysyem\Movies-Rating-Sysyem.csproj", "{311413CC-989C-4563-B883-F0E536207693}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies-Rating-System", "Movies-Rating-Sysyem\Movies-Rating-System.csproj", "{311413CC-989C-4563-B883-F0E536207693}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
